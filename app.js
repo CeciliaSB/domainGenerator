@@ -1,6 +1,6 @@
 
 
-    let pronoun = ['Mygit ', 'The','Our', 'Your'];
+    let pronoun = ['My', 'The','Our', 'Your'];
     let adjective = ['great','stinky', 'shitty', 'odd'];
     let noun = ['website', 'hole', 'armpit', 'idea'];
     let extensions = ['.com', '.org', '.edu', '.cl'];
